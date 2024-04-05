@@ -2,7 +2,7 @@ name: "佳夜诗集欣赏"
 description: "佳夜作品集，Earn提供技术支持"
 
 avatar: https://cdn.jsdelivr.net/gh/EarnMonkey/blog_imgs/jiaye.jpg
-favicon: https://pianfan.github.io/images/favicon.ico
+favicon: https://cdn.jsdelivr.net/gh/EarnMonkey/blog_imgs/favicon-32x32.png
 
 navigation:
   - name: 首页
